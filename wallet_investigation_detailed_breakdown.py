@@ -84,5 +84,5 @@ def investigate_wallets(file_path):
     return pd.DataFrame(wallet_details)
 
 # Usage example:
-# breakdown_df = investigate_wallets('path_to_your_parquet_file.parquet')
-# print(breakdown_df)
+breakdown_df = investigate_wallets('r'C:\Users\cuten\PycharmProjects\pythonProject\Wallet-Investigation\tron_blockchain_interview_data.parquet'')
+print(breakdown_df)
