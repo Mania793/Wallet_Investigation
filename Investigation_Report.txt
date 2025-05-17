@@ -1,6 +1,4 @@
-Subject: Supporting the Investigations Team
-
-Dear Investigations Team,
+Hi Stephen,
 
 I have identified the wallet addresses matching the specified transaction patterns:
 
@@ -33,16 +31,6 @@ TQrY8tryqsYVCYS3MFbtffiPp2ccyn4STm
 TU4vEruvZwLLkSfV9bNw12EJTPvNr7Pvaa
 TUpHuDkiCCmwaTZBHZvQdwWzGNm5t8J2b9
 TYASr5UV6HEcXatwdFQfmLVUqQQQMUxHLS
-
-The code used for analysis has been hosted at the following link:
-
-[Link to Code Repository - To be added]
-
-If I had more time, I would have:
-
-1. Analyzed inter-wallet relationships to trace possible money laundering paths.
-2. Implemented automated wallet clustering to identify linked addresses.
-3. Cross-verified transactions on-chain for deeper insights.
 
 Kind regards,
 Mani
