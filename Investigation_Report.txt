@@ -1,0 +1,48 @@
+Subject: Supporting the Investigations Team
+
+Dear Investigations Team,
+
+I have identified the wallet addresses matching the specified transaction patterns:
+
+- Three USDT transactions in January 2025
+- 800 USDT on 3rd January
+- $25 transaction before the 800 USDT transaction
+- $500 - $700 transaction on 10th January
+- Sent to more than one address
+
+The identified wallet addresses are as follows:
+
+TBA6CypYJizwA9XdC7Ubgc5F1bxrQ7SqPt
+TCLgK89AnXbC9rewvhNb9UgXCc2qJJpBXh
+TDoXUNZ6PajKuiUkcYg3EDSV9bnqGqsbcf
+TEPSrSYPDSQ7yXpMFPq91Fb1QEWpMkRGfn
+TFTWNgDBkQ5wQoP8RXpRznnHvAVV8x5jLu
+TJ5usJLLwjwn7Pw3TPbdzreG7dvgKzfQ5y
+TJ7hhYhVhaxNx6BPyq7yFpqZrQULL3JSdb
+TJDENsfBJs4RFETt1X1W8wMDc8M5XnJhCe
+TJoMKkBcESxMV3cfHCSTipF9Bamm5BVrG8
+TJqwA7SoZnERE4zW5uDEiPkbz4B66h9TFj
+TKdgKMPXtXwwQi5bVzutBisbsMSFSvP9xm
+TLb8A3T4PvmNtVsZtKW9E1z2JxojnGdcVP
+TM1zzNDZD2DPASbKcgdVoTYhfmYgtfwx9R
+TMqDrZa5kEebg5wi3W3wusVZ6ZF2w6JczH
+TNS4UmRwn6mmc7bKDt2LYXj2capAYkTvFr
+TNXEcNrUXXXi6522BVEXWuAHPtrEqrZB4Y
+TNXoiAJ3dct8Fjg4M9fkLFh9S2v9TXc32G
+TQrY8tryqsYVCYS3MFbtffiPp2ccyn4STm
+TU4vEruvZwLLkSfV9bNw12EJTPvNr7Pvaa
+TUpHuDkiCCmwaTZBHZvQdwWzGNm5t8J2b9
+TYASr5UV6HEcXatwdFQfmLVUqQQQMUxHLS
+
+The code used for analysis has been hosted at the following link:
+
+[Link to Code Repository - To be added]
+
+If I had more time, I would have:
+
+1. Analyzed inter-wallet relationships to trace possible money laundering paths.
+2. Implemented automated wallet clustering to identify linked addresses.
+3. Cross-verified transactions on-chain for deeper insights.
+
+Kind regards,
+Mani
